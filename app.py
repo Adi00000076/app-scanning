@@ -18,4 +18,4 @@ def run_app():
     return "Application started!"
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='0.0.0.0', port=5001)  # Change to a different port number if needed
